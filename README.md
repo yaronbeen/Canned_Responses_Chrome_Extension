@@ -118,11 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from Emoji for simplicity and universal support
 - Inspired by the need to stop typing the same things over and over
 
----
 
-<div align="center">
-  <p>If you find this extension helpful, please ⭐ star this repository!</p>
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
